@@ -7,6 +7,7 @@ public class promedio {
 		float promedio;
 		float total;
 		n=0;
+		
 		System.out.println("ingrese el valor");
 		n1=teclado.nextInt();
 		n=n+1;
